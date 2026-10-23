@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "built": 1792747221.0765274,
+  "work": "/data/t50055627/outputs/anyrecon-spatial/F_bridge/custom_traj/demo_ui_20261023_091615",
+  "dir": "F_bridge/custom_traj/demo_ui_20261023_091615",
+  "fps": 10.0,
+  "frames": 45,
+  "duration": 4.5,
+  "files": {
+    "grid": "F_bridge/custom_traj/demo_ui_20261023_091615/preview/grid.jpg",
+    "condition_small": "F_bridge/custom_traj/demo_ui_20261023_091615/preview/condition_small.mp4",
+    "diffusion_small": "F_bridge/custom_traj/demo_ui_20261023_091615/preview/diffusion_small.mp4",
+    "compare_small": "F_bridge/custom_traj/demo_ui_20261023_091615/preview/compare_small.mp4"
+  },
+  "thumbs": [
+    "F_bridge/custom_traj/demo_ui_20261023_091615/preview/thumbs/t01.jpg",
+    "F_bridge/custom_traj/demo_ui_20261023_091615/preview/thumbs/t02.jpg",
+    "F_bridge/custom_traj/demo_ui_20261023_091615/preview/thumbs/t03.jpg",
+    "F_bridge/custom_traj/demo_ui_20261023_091615/preview/thumbs/t04.jpg",
+    "F_bridge/custom_traj/demo_ui_20261023_091615/preview/thumbs/t05.jpg",
+    "F_bridge/custom_traj/demo_ui_20261023_091615/preview/thumbs/t06.jpg",
+    "F_bridge/custom_traj/demo_ui_20261023_091615/preview/thumbs/t07.jpg",
+    "F_bridge/custom_traj/demo_ui_20261023_091615/preview/thumbs/t08.jpg"
+  ],
+  "sizes": {
+    "condition_small": 229756,
+    "diffusion_small": 294817,
+    "compare_small": 325115,
+    "thumbs": 45407,
+    "grid": 89492
+  },
+  "total_bytes": 984587,
+  "errors": [],
+  "sources": {
+    "condition": "F_bridge/custom_traj/demo_ui_20261023_091615/condition/demo_ui_20261023_091615.mp4",
+    "diffusion": "F_bridge/custom_traj/demo_ui_20261023_091615/diffusion/demo_ui_20261023_091615.mp4"
+  },
+  "condition_frame_count": 10,
+  "insert": 10
+}
