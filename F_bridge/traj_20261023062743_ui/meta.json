@@ -1,0 +1,25 @@
+{
+  "scene": "F_bridge",
+  "name": "traj_20261023062743.",
+  "out_dir": "/data/t50055627/outputs/anyrecon-spatial/F_bridge/custom_traj/traj_20261023062743.",
+  "condition_video": "/api/artifact?path=F_bridge/custom_traj/traj_20261023062743./condition/traj_20261023062743..mp4",
+  "mask_video": "/api/artifact?path=F_bridge/custom_traj/traj_20261023062743./mask/traj_20261023062743..mp4",
+  "condition_info": "/api/artifact?path=F_bridge/custom_traj/traj_20261023062743./condition/traj_20261023062743._info.txt",
+  "trajectory": "/api/artifact?path=F_bridge/custom_traj/traj_20261023062743./trajectory.json",
+  "condition_frame_indices": [
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "frames": 45,
+  "save_ok": true,
+  "fov_x_deg": 58.5,
+  "render_ms": 5392
+}
